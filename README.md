@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafath-21" alt="arafath-21" /></a> </p>
 
-- 💬 Ask me about **HTML,CSS,JS,Bootstrap**
+- 💬 Ask me about **HTML,CSS,JS,Bootstrap,React**
 
 - 📫 How to reach me **arafathyas21@gmail.com**
 
